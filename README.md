@@ -1,4 +1,5 @@
-Data Structures and Algorithms Implementation in Java ![alt tag](https://api.travis-ci.org/phishman3579/java-algorithms-implementation.svg?branch=master)
+#Data Structures and Algorithms 
+Implementation in Java ![alt tag](https://api.travis-ci.org/phishman3579/java-algorithms-implementation.svg?branch=master)
 ==============================
 
 Algorithms and Data Structures implemented in Java
